@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://impulsodigitalpt.github.io/impulso-digital/sitemap.xml
+Sitemap: https://rubiradigital.pt/sitemap.xml
