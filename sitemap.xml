@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://rubiradigital.pt/</loc></url>
-  <url><loc>https://rubiradigital.pt/privacidade/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://rubiradigital.pt/</loc><xhtml:link rel="alternate" hreflang="pt-PT" href="https://rubiradigital.pt/"/><xhtml:link rel="alternate" hreflang="en" href="https://rubiradigital.pt/en/"/></url>
+  <url><loc>https://rubiradigital.pt/en/</loc><xhtml:link rel="alternate" hreflang="pt-PT" href="https://rubiradigital.pt/"/><xhtml:link rel="alternate" hreflang="en" href="https://rubiradigital.pt/en/"/></url>
+  <url><loc>https://rubiradigital.pt/privacidade/</loc><xhtml:link rel="alternate" hreflang="pt-PT" href="https://rubiradigital.pt/privacidade/"/><xhtml:link rel="alternate" hreflang="en" href="https://rubiradigital.pt/en/privacy/"/></url>
+  <url><loc>https://rubiradigital.pt/en/privacy/</loc><xhtml:link rel="alternate" hreflang="pt-PT" href="https://rubiradigital.pt/privacidade/"/><xhtml:link rel="alternate" hreflang="en" href="https://rubiradigital.pt/en/privacy/"/></url>
 </urlset>
